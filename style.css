@@ -1,0 +1,258 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans&display=swap');
+.container{
+    max-width: 1440px;
+    margin: 0 auto;
+    width: 100vw;
+    height: 100vh;
+    height: 768px;
+    background-color:#6463E7;
+    ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.white{
+    width: 920px;
+    height: 509px;
+    border-radius: 23px;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    align-content: space-between;
+}
+.photo{
+    position: relative;
+     margin-left: -2px; 
+
+}
+.monitor{
+    position: absolute;
+    top: 50px;
+
+}
+.cube{
+    position: absolute;
+    top: 170px;
+    left: -90px;
+}
+.shadow{
+    position: absolute;
+    bottom: 0;
+    top: 82px;
+}
+.line2{
+    position: absolute;
+    top: -5px;
+}
+.line1{
+    position: absolute;
+
+}
+.navi{
+    width: 700px;
+    height: 360px;
+    margin-left: 480px;
+    margin-top: 65px;
+}
+h1{
+    font-family: 'Kumbh Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 40px;
+    color: #1E1F36;
+    margin-bottom: 45px;
+}
+.arrow1{
+    margin-left: 72px;
+}
+/* .arrow1:hover{
+    transform: rotate(180deg);
+} */
+.arrow2{
+    margin-left: 71px;
+}
+.arrow3{
+    margin-left: 134px;
+}
+.arrow4{
+    margin-left: 132px;
+}
+.arrow5{
+    margin-left: 95px;
+}
+.li1{
+    Width: 253px;
+    Height: 14px;
+    font-size: 14px;
+    line-height: 17px;
+    color: #4B4C5F;
+    display: inline-block;
+    font-family: 'Kumbh Sans';
+    font-style: normal;
+    font-weight: 400;
+}
+.li1:hover{
+    color: #F47B56;
+    cursor: pointer;
+}
+.hr1{
+    Width: 350px;
+    margin-right: 95px;
+    margin-top: 18px;
+    display: block;
+}
+.hrli1{
+    display: none; 
+}
+.li2{
+    Width: 319px;
+    Height: 36px;
+    font-size: 12px;
+    line-height: 18px;
+    color: #787887;
+    font-family: 'Kumbh Sans';
+    font-style: normal;
+    font-weight: 400;
+    display: none;
+    margin-top: 13px;
+    }
+.li3{
+    Width: 254px;
+    Height: 14px;
+    font-size: 14px;
+    line-height: 17px;
+    color: #4B4C5F;
+    display: inline-block;
+    font-family: 'Kumbh Sans';
+    font-style: normal;
+    font-weight: 400;
+}
+.li3:hover{
+    color: #F47B56;
+    cursor: pointer;
+}
+.hr2{
+    Width: 350px;
+    margin-right: 95px;
+    margin-top: 18px;
+    display: block;
+}
+.hrli2{
+    display: none;  
+}
+.li4{
+    Width: 319px;
+    Height: 36px;
+    font-family: 'Kumbh Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    color: #787887;
+    display: inline-block;
+    display: none;
+}
+.li5{
+    Width: 191px;
+    Height: 14px;
+    font-size: 14px;
+    line-height: 17px;
+    color: #4B4C5F;
+    display: inline-block;
+    font-family: 'Kumbh Sans';
+    font-style: normal;
+    font-weight: 400;
+}
+.li5:hover{
+    color: #F47B56;
+    cursor: pointer;
+}
+.hr3{
+    Width: 350px;
+    margin-right: 95px;
+    margin-top: 18px;
+    display: block;
+}
+.hrli3{
+    display: none;    
+}
+.li7{
+    Width: 193px;
+    Height: 14px;
+    font-size: 14px;
+    line-height: 17px;
+    color: #4B4C5F;
+    display: inline-block;
+    font-family: 'Kumbh Sans';
+    font-style: normal;
+    font-weight: 400;
+}
+.li7:hover{
+    color: #F47B56;
+    cursor: pointer;
+}
+.hr4{
+    Width: 350px;
+    margin-right: 95px;
+    margin-top: 18px;
+    display: block;
+}
+.hrli4{
+    display: none;
+}
+.li9{
+    Width: 230px;
+    Height: 14px;
+    font-size: 14px;
+    line-height: 17px;
+    color: #4B4C5F;
+    display: inline-block;
+    font-family: 'Kumbh Sans';
+    font-style: normal;
+    font-weight: 400;
+}
+.li9:hover{
+    color: #F47B56;
+    cursor: pointer;
+}
+.hr5{
+    Width: 350px;
+    margin-right: 95px;
+    margin-top: 18px;
+    display: block;  
+}
+.hrli5{
+    display: none;
+}
+.turn {
+    transform: rotate(180deg);
+    transition: all 0.5s ease;
+}
+.li11{
+font-weight: 700;
+color: black;
+}
+.li22{
+    display: block;
+}
+.hr11{
+display: none;
+}
+.hrli11{
+    display: block;
+    width: 350px;
+    margin-right: 95px;
+}
+.hrli22{
+    display: block;
+}
+.hrli3{
+    display: none;
+}
+.li33{
+    display: block;
+}
+.li44{
+    display: block;
+}
